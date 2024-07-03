@@ -1,1 +1,1 @@
-print("Hello, i am in python")
+print("Hello, i am in java")
